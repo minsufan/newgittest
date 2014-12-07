@@ -1,3 +1,4 @@
 feature1:sth
 for feature1
 for master
+for feature1
